@@ -8,11 +8,11 @@ Estimated fare based on distance
 Graph-based station selection for an interactive experience
 Metro map display for better visualization
 Features
-✅ Find the Shortest Path between two metro stations
-✅ Calculate Total Stops & Estimated Fare
-✅ Graphical Station Selection (Click on a metro map to choose stations)
-✅ Multi-Line Metro Support with Color-Coded Routes
-✅ Real-Time Metro Map Display
+ Find the Shortest Path between two metro stations
+ Calculate Total Stops & Estimated Fare
+ Graphical Station Selection (Click on a metro map to choose stations)
+ Multi-Line Metro Support with Color-Coded Routes
+ Real-Time Metro Map Display
 
 Technologies Used
 Python (Backend Logic)
